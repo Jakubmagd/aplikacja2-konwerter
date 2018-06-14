@@ -11,7 +11,7 @@ import android.view.ViewGroup;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class SpeedFragment extends Fragment {
+public class SpeedFragment extends Fragment {//stworzenie fragmentu dla szybkosci ktora oblicza dla nich wartosci
 
 
     public SpeedFragment() {
