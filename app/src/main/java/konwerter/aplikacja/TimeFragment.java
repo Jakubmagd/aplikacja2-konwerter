@@ -14,7 +14,7 @@ import android.widget.EditText;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class TimeFragment extends Fragment {
+public class TimeFragment extends Fragment {//stworzenie fragmentu dla czasu ktory oblicza dla nich wartosci
 
 
     public TimeFragment() {
