@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ScrollableTabsActivity extends AppCompatActivity
-        implements NavigationView.OnNavigationItemSelectedListener {
+        implements NavigationView.OnNavigationItemSelectedListener {//stworzenie fragmentu dla masy ktory oblicza dla nich wartosci
 
     private TabLayout tabLayout;
     private ViewPager viewPager;

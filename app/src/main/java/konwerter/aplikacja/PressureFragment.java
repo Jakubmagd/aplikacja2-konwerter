@@ -13,7 +13,7 @@ import android.widget.EditText;
 
 
 
-public class PressureFragment extends Fragment {
+public class PressureFragment extends Fragment {////stworzenie fragmentu dla cisnienie ktory oblicza dla nich wartosci
 
     public PressureFragment() {
         // Required empty public constructor
