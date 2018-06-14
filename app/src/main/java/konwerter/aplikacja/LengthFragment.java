@@ -14,7 +14,7 @@ import android.widget.EditText;
 
 
 
-public class LengthFragment extends Fragment { ///stworzenie fragmentu dla dlugosci ktory oblicza dla nich wartosci
+public class LengthFragment extends Fragment { ///stworzenie fragmentu dla dlugosci ktory oblicza dla nich wartosci oraz zmiana dla niego layoutu
 
     public LengthFragment() {
         // Required empty public constructor
