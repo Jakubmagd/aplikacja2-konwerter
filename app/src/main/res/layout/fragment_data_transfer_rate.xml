@@ -23,7 +23,7 @@
                     android:id="@+id/input_bit_per_second"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Bit per second"
+                    android:hint="Bit na sekunde"
                     android:inputType="numberDecimal" />
 
             </android.support.design.widget.TextInputLayout>
