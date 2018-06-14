@@ -14,7 +14,7 @@ import android.widget.EditText;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class VolumeFragment extends Fragment {
+public class VolumeFragment extends Fragment { ///stworzenie fragmentu dla glosnosci ktora oblicza dla nich wartosci
 
 
     public VolumeFragment() {
