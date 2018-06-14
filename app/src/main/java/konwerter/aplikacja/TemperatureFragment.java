@@ -14,7 +14,7 @@ import android.widget.EditText;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class TemperatureFragment extends Fragment {
+public class TemperatureFragment extends Fragment {//stworzenie fragmentu dla temperatury ktora oblicza dla nich wartosci
 
 
     public TemperatureFragment() {
